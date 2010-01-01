@@ -1,0 +1,13 @@
+Hi there, wish you a very Happy New year!
+If you're a Gwibber 2 user, do try these themes I've been working on recently - 
+	
+	Gwibbles - shows messages as bubbles spread across whole page
+	Gwibbly - a Tweetie like interface for gwibber
+
+to install download these and drop in your -
+	~/.local/share/gwibber/ui/themes/   folder. 
+
+If that path does not exist, just do an mkdir -p ~/.local/share/gwibber/ui/themes/
+
+Have fun :)
+
