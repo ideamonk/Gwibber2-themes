@@ -1,0 +1,12 @@
+<%include file="mycss.mako" />
+<%include file="mydefaultcss.mako" />
+
+body { 
+  color: #222;
+  background-color: #dce2ee;
+  font: 12px "Lucida Grande", Lucida, Verdana, sans-serif;
+  text-align:center;
+}
+a { color: #204a87 }
+.time a { color: #666 }
+.message {  }
