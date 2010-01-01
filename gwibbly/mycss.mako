@@ -62,14 +62,17 @@
     color:#00800c;
 }
 cite.rounded {
-    padding:5px 10px 10px 10px;
-    background: url(tip.gif) top 20px no-repeat;
+    padding:6px 10px 10px 10px;
+    background: url(tip3.gif) top 20px no-repeat;
     color:#555;
     text-shadow: 1px 1px 1px #fff;
 }
 
 .reply cite.rounded {
   background: url(tip2.gif) top 20px no-repeat;
+}
+.unread .rounded {
+  background: url(tip.gif) top 20px no-repeat;
 }
 .reply .msgpop {
   border-bottom:none;
